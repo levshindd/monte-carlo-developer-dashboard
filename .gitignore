@@ -8,3 +8,9 @@ venv/
 
 # Temp build logs
 *.err
+
+# Личные подготовительные материалы — не публиковать
+docs/personal/
+*_PRIVATE*
+PERSONAL_*.md
+PERSONAL_*.pdf
